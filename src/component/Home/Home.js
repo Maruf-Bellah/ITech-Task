@@ -13,9 +13,10 @@ import Footer from '../Footer/Footer';
 
 
 
+
 const Home = () => {
     return (
-        <div className='w-1200px mx-auto'>
+        <div className=''>
             <Header2></Header2>
             <Feachure></Feachure>
             <Note></Note>
