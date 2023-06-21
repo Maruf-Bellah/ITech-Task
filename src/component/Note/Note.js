@@ -46,7 +46,7 @@ const Note = () => {
                             <h6>Complete note editor with rich text options</h6>
                         </div>
                     </div>
-                    <button className='comon btn rounded-pill'>Free Register </button>
+                    <button className='comon btn px-5 py-3 rounded-pill'>Free Register </button>
                 </div>
             </div>
         </div>

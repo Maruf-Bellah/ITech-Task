@@ -8,7 +8,7 @@ const Join = () => {
         <div className='container text-center py-5'>
             <button className='btn notero-button'>Notero Community</button>
             <h1 className='py-3 fw-bolder'>Join Into <span className='text-color'>Our Hub</span></h1>
-            <div className="row  border rounded-4  m-1 p-4 row-cols-1 row-cols-lg-3">
+            <div id='join-border' className="row   rounded-4  m-1 p-4 row-cols-1 row-cols-lg-3">
                 <div className="col">
                     <div className='d-flex align-items-center text-start'>
                         <div className=''>

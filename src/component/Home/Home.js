@@ -14,6 +14,7 @@ import Footer from '../Footer/Footer';
 
 
 
+
 const Home = () => {
     return (
         <div className=''>
@@ -26,7 +27,7 @@ const Home = () => {
             <Populer1></Populer1>
             <Customer></Customer>
             <Join></Join>
-            <Footer></Footer>
+           <Footer></Footer>
         </div>
     );
 };

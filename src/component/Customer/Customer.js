@@ -33,7 +33,7 @@ const Customer = () => {
                     </div>
                     <div className="row">
                         <div className="col pt-2">
-                            <button className='btn comon rounded-pill '>See Reviews on app store</button>
+                            <button className='btn py-3 comon rounded-pill '>See Reviews on app store</button>
                         </div>
                         <div className="col">
                         <div id='vedio' className='botton-icon '>

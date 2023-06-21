@@ -66,7 +66,7 @@ const Navbar = () => {
 
                             <a href="">
                             <img className='border p-2 rounded-circle' src={man} width={'35px'} height={'35px'} alt="" /></a>
-                            <button className="btn border btn-sm rounded-pill btn-outline-dark" type="submit">Join IRech Hub &rarr; </button>
+                            <button className="btn border  rounded-pill btn-outline-dark" type="submit">Join IRech Hub &rarr; </button>
 
 
 

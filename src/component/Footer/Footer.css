@@ -22,6 +22,11 @@
   z-index: 2;
 
 }
+@media screen and (max-width: 480px) {
+  #white{
+    background-image: none;
+  }
+}
 
 #blue {
   background-image: url('Rectangle\ 28@2x.png');
@@ -37,4 +42,8 @@
   top: 0px;
   z-index: 1;
 
+}
+#footer-brek{
+  padding-left: 50px;
+  padding-right: 70px;
 }

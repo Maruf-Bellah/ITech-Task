@@ -27,7 +27,7 @@ const Download = () => {
             
                    <div className="col text-lg-start  py-2">
                        
-                       <button className='btn btn-light border rounded-pill'>
+                       <button id='border' className='btn btn-light rounded-pill'>
                        <div className='d-flex   text-center align-items-center '>
                            <div  className='down px-2'>
                                <img className='tmg-fluid' src={two} alt="" />

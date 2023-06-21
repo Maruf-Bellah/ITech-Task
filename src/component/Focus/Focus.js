@@ -25,7 +25,7 @@ const Focus = () => {
                         <li>Easy to switch between light and dark mode </li>
                     </ul>
 
-                    <button className='btn comon'>Discovery Now</button>
+                    <button className='btn px-5 py-3 comon'>Discovery Now</button>
                 </div>
             </div>
 
