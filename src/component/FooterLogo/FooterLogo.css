@@ -1,0 +1,9 @@
+#lang {
+    width: 100%;
+}
+#lang img{
+    width: 43px;
+}
+.cursor{
+    cursor: pointer;
+}

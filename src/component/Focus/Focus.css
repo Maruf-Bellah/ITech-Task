@@ -1,0 +1,10 @@
+#focus {
+    background-image: url('./about_s4_bubble\ 3@2x.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    position: relative;
+}
+li{
+    padding: 10px 0px;
+}

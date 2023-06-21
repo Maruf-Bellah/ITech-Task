@@ -1,0 +1,40 @@
+#main {
+  /* background-image: url('Rectangle\ 7-1.png'); */
+  width: 100%;
+  position: relative;
+
+  top: 130px;
+}
+
+
+
+#white {
+  background-image: url('Rectangle\ 27@2x.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 100% 100%;
+  height: auto;
+  width: 100%;
+  /* background-color: red; */
+  position: relative;
+  left: 0px;
+  top: 0px;
+  z-index: 2;
+
+}
+
+#blue {
+  background-image: url('Rectangle\ 28@2x.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 100% 100%;
+  /* background-color: green;  */
+  position: absolute;
+  left: 600px;
+  height: 400px;
+  width: 98%;
+  left: 12px;
+  top: 0px;
+  z-index: 1;
+
+}

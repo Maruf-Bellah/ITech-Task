@@ -1,0 +1,42 @@
+#note{
+    background-image: url('./about_s4_lines\ 1@2x.png');
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: 100% 70%;
+    position: relative;
+}
+
+
+#notes{
+    /* background-color: rebeccapurple; */
+    background-image: url('./about_s4_bubble\ 1@2x.png');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+}
+.day{
+    background-color: rgba(105, 83, 211, 0.1);
+    width: 40px;
+    height: 40px;
+    padding: 8px;
+    border-radius: 50%;
+}
+.match{
+    padding: 8px;
+    background-color: rgba(105, 83, 211, 0.1);
+    border-radius: 50%;
+}
+.rich{
+    padding: 8px;
+    background-color: rgba(105, 83, 211, 0.1);
+    border-radius: 50%;
+}
+.comon{
+    background-color: #6953D3;
+    color: white;
+}

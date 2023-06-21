@@ -1,0 +1,40 @@
+.icon{
+    font-size: 30px;
+    font-weight: 100;
+    margin-right: 20px;
+}
+#navbar-border{
+    /* border: 10px solid red; */
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    position: absolute;
+    width: 100%;
+    top: 80px;
+}
+#navbar-border1{
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    position: relative;
+
+}
+#hot{
+    background-color: rgba(253, 0, 0, 0.2);
+    position: absolute;
+    left: 550px;
+    top: 20px;
+    font-size: 10px;
+    padding: 0px 3px;
+    border-radius: 5px;
+}
+
+.target{
+    width: 20px;
+    height: 20px;
+    background-color: #6953D3;
+    transform: rotate(45deg);
+    transform-origin: 20% 40%;
+    border-radius: 3px;
+    position: absolute;
+    top: -15px;
+    left: 475px;
+}

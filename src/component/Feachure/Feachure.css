@@ -1,0 +1,77 @@
+#big {
+  /* background-image: url('Rectangle\ 7-1.png'); */
+  height: auto;
+  position: relative;
+  display: block;
+  top: -135px;
+}
+
+
+
+#red {
+  background-image: url('Rectangle\ 7-1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  height: auto;
+  width: 100%;
+  /* background-color: red; */
+  position: relative;
+  top: 0px;
+  z-index: 2;
+
+}
+
+#green {
+  background-image: url('Rectangle\ 8.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 100% 100%;
+  /* background-color: green;  */
+  position: absolute;
+  left: 600px;
+  height: 400px;
+  width: 830px;
+  left: 420px;
+  top: 0px;
+  z-index: 1;
+
+}
+
+#feachureIcon {
+  padding-top: 150px;
+}
+
+#ring {
+
+  position: absolute;
+  left: 310px;
+  top: 542px;
+  width: 600px;
+  height: 300px;
+  border: 1px dashed rgba(0, 0, 0, 0.2);
+  border-bottom: none;
+  border-top-right-radius: 500px;
+  border-top-left-radius: 500px;
+  z-index: -1;
+}
+
+#small-ring {
+  position: absolute;
+  left: 360px;
+  top: 592px;
+  width: 500px;
+  height: 250px;
+  border: 1px dashed rgba(0, 0, 0, 0.2);
+  border-bottom: none;
+  border-top-right-radius: 500px;
+  border-top-left-radius: 500px;
+  z-index: -1;
+
+}
+
+.breck {
+  padding-left: 50px;
+  padding-right: 50px;
+  color:#444444;
+}

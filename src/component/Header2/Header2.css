@@ -1,0 +1,143 @@
+.header-text{
+    font-size: 52px;
+    font-weight: 700;
+    /* line-height: 45px; */
+    margin: 20px 0px;
+}
+.text-color{
+    background: -webkit-linear-gradient(40deg,#6953D3, #8566F1,#A14EEE,#F98085);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .notero-button{
+    background: rgba(105, 83, 211, 0.12);
+    color: #6953D3;
+    ;
+  }
+
+  #vedio{
+    background-color: white;
+    color: black;
+    line-height: 5px;
+    display: flex;
+    align-items: center;
+
+
+  }
+  
+  @media screen and (max-width: 800px) {
+    #vedio{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .botton-icon{
+      text-align: center;
+      cursor: pointer;
+
+    } 
+  }
+
+
+  #viw{
+    font-size: 18px;
+    padding-top: 9px;
+    padding-left: 10px;
+  }
+  #vedio img{
+    width: 65%;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  .vedio{
+    line-height: 3px;
+    text-align: start;
+    font-size: 12px;
+    font-weight: 600;
+  }
+#day{
+  background-color: white;
+  color: black;
+}
+#day img{
+  width: 32px;
+  padding: 8px;
+  border-radius: 50%;
+  background-color: rgba(105, 83, 211, 0.1);
+  cursor: pointer;
+}
+  #fresh{
+    width: 10px;
+    height:10;
+    background: rgba(105, 83, 211, 0.12);
+    text-align: center;
+    border-radius:50%;
+    padding: 10px;
+    fill: #6953D3;
+    margin-right: 5px;
+  }
+  #card{
+    font-size: 25px;
+    padding-right: 5px;
+    fill: #6953D3;
+    cursor: pointer;
+  }
+
+
+  #card{
+    background-color: white;
+    color: black;
+    font-size: 16px;
+  }
+
+
+
+
+
+  #header-img{
+   width: 100%;
+    position: relative;
+    /* background-color: red; */
+  }
+  #header-img img{
+    width: 100%;
+    /* position: absolute; */
+    
+  }
+
+  #gol-red{
+    width: 15px;
+    height: 15px;
+    background-color:#FF847F;
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    border-radius: 50%;
+  }
+
+#gol-blue{
+  width: 30px;
+  height: 30px;
+  background-color:#6953D3;
+  position: absolute;
+  top: 80px;
+  left: 0px;
+  border-radius: 50%;
+}
+
+
+.botton-icon{
+  width: 100%;
+  padding: 5px;
+  color: white;
+  background-color: #6953D3;
+}
+.botton-icon img{
+  width: 30px;
+}
+
+
+

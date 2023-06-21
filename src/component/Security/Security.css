@@ -1,0 +1,41 @@
+/* 
+#security-one{
+    background-image: url('./about_s4_bubble2\ 1@2x.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    position: relative; 
+} */
+#security{
+
+
+    position: relative; 
+
+}
+
+#security1{
+    /* background-color: rebeccapurple; */
+      background-image: url('./about_s4_bubble2\ 1@2x.png');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    top: 150px;
+    z-index: -1;
+}
+
+.collaps{
+    background-color: rgba(105, 83, 211, 0.15);
+}
+.crome{
+    font-size: 12px;
+}
+.dag{
+    font-size: 30px;
+}
+.crome-boton-color{
+    background-color: 
+    #E7E5E5;
+}
