@@ -3,7 +3,8 @@
   height: auto;
   position: relative;
   display: block;
-  top: -135px;
+  width: 100vw;
+  top: -140px;
 }
 
 
@@ -29,14 +30,25 @@
   background-size: 100% 100%;
   /* background-color: green;  */
   position: absolute;
-  left: 600px;
+  left: 400px;
   height: 400px;
-  width: 830px;
-  left: 420px;
+  width: 890px;
+  left: 400px;
   top: 0px;
   z-index: 1;
 
 }
+
+
+
+
+
+
+
+
+
+
+
 
 #feachureIcon {
   padding-top: 150px;
@@ -46,7 +58,7 @@
 
   position: absolute;
   left: 310px;
-  top: 542px;
+  top: 643px;
   width: 600px;
   height: 300px;
   border: 1px dashed rgba(0, 0, 0, 0.2);
@@ -59,7 +71,7 @@
 #small-ring {
   position: absolute;
   left: 360px;
-  top: 592px;
+  top: 692px;
   width: 500px;
   height: 250px;
   border: 1px dashed rgba(0, 0, 0, 0.2);
@@ -71,7 +83,6 @@
 }
 
 .breck {
-  padding-left: 50px;
-  padding-right: 50px;
+  padding: 50px;
   color:#444444;
 }

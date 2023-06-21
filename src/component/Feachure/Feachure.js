@@ -9,7 +9,7 @@ const Feachure = () => {
     return (
         <div id='big' className='container-fluid ' >
             <div className="">
-                <div className="box" id="red">
+                <div className="box  d-none d-lg-block d-xl-block " id="red">
                     <div id='feachureIcon' className=''>
                       <FeachureIcon></FeachureIcon>
                         <div className='breck'>

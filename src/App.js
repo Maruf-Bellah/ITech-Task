@@ -5,7 +5,7 @@ import Home from './component/Home/Home';
 
 function App() {
   return (
-    <div classNameName="w-1200px mx-auto">
+    <div style={{overflow: 'hidden'}} classNameName="w-1200px mx-auto ">
       <Header></Header>
       <Home></Home>
     </div>

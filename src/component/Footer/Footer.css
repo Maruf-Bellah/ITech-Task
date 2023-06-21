@@ -14,7 +14,7 @@
   background-position: right;
   background-size: 100% 100%;
   height: auto;
-  width: 100%;
+  width: 100vw;
   /* background-color: red; */
   position: relative;
   left: 0px;
@@ -32,7 +32,7 @@
   position: absolute;
   left: 600px;
   height: 400px;
-  width: 98%;
+  width: 100%;
   left: 12px;
   top: 0px;
   z-index: 1;

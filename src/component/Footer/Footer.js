@@ -17,6 +17,7 @@ const Footer = () => {
                             <hr />
                         </div>
                        <FooterLast></FooterLast>
+                       <h1>hello how are you</h1>
                     </div>
                 </div>
                 <div className="d-none d-lg-block d-xl-block" id="blue">
