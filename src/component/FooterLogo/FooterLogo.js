@@ -29,7 +29,7 @@ const FooterLogo = () => {
                 <div id='lang' className="col cursor">
                     <div className='d-flex align-items-center'>
                     <img className='img-fluid pb-3 ' src={lang} width={'4px'} alt="" />
-                    <h6 className='ps-1'><small>English  v</small></h6>
+                    {/* <h6 className='ps-1'><small>English  v</small></h6> */}
                     </div>
                 </div>
             </div>
