@@ -11,7 +11,7 @@ const Join = () => {
             <div id='join-border' className="row   rounded-4  m-1 p-4 row-cols-1 row-cols-lg-3">
                 <div className="col">
                     <div className='d-flex align-items-center text-start'>
-                        <div className=''>
+                        <div id='github' className=''>
                             <img className='img-fluid' src={one} width={'100px'} alt="" />
                         </div>
                         <div className='lh-1'>
@@ -26,7 +26,7 @@ const Join = () => {
                         <div className='join'>
                             <img className='img-fluid' src={two} width={'40px'} alt="" />
                         </div>
-                        <div className='lh-1'>
+                        <div className='lh-1 pt-3 '>
                             <h3 className='fw-bolder'>Tweeter</h3>
                             <p><small>Latest News & Update</small></p>
                         </div>
@@ -38,7 +38,7 @@ const Join = () => {
                         <div className='join'>
                             <img className='img-fluid' src={three} width={'40px'} alt="" />
                         </div>
-                        <div className='lh-1'>
+                        <div className='lh-1 pt-3'>
                             <h3 className='fw-bolder'>Telegram</h3>
                             <p><small>Channel For Community </small></p>
                         </div>

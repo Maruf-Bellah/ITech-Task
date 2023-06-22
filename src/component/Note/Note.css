@@ -25,18 +25,22 @@
     height: 40px;
     padding: 8px;
     border-radius: 50%;
+    cursor: pointer;
 }
 .match{
     padding: 8px;
     background-color: rgba(105, 83, 211, 0.1);
     border-radius: 50%;
+    cursor: pointer;
 }
 .rich{
     padding: 8px;
     background-color: rgba(105, 83, 211, 0.1);
     border-radius: 50%;
+    cursor: pointer;
 }
 .comon{
     background-color: #6953D3;
     color: white;
+    cursor: pointer;
 }
